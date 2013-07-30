@@ -14,7 +14,7 @@ The ImageFactory variable is a reference to the Module object.
 
 ## Methods
 
-### ___PROJECTNAMEASIDENTIFIER__.getExifTag
+### ImageFactory.getExifTag
 
 Read the value of an Exif tag inside an image file.
 
@@ -23,7 +23,7 @@ Read the value of an Exif tag inside an image file.
 * filename [string]: The string specifying the filename of the image file to read.
 * tag [string]: The tag to read from the image file. Use one of the constants also provided in this module. 
 
-### ___PROJECTNAMEASIDENTIFIER__.rotateResizeImage
+### ImageFactory.rotateResizeImage
 
 Rotate, resize and compress the image to a JPEG file in one pass. 
 
@@ -35,36 +35,36 @@ Rotate, resize and compress the image to a JPEG file in one pass.
 
 ## Constants
 
-### ___PROJECTNAMEASIDENTIFIER__.ORIENTATION_FLIP_HORIZONTAL
-### ___PROJECTNAMEASIDENTIFIER__.ORIENTATION_FLIP_VERTICAL
-### ___PROJECTNAMEASIDENTIFIER__.ORIENTATION_NORMAL
-### ___PROJECTNAMEASIDENTIFIER__.ORIENTATION_ROTATE_180
-### ___PROJECTNAMEASIDENTIFIER__.ORIENTATION_ROTATE_270
-### ___PROJECTNAMEASIDENTIFIER__.ORIENTATION_ROTATE_90
-### ___PROJECTNAMEASIDENTIFIER__.ORIENTATION_TRANSPOSE
-### ___PROJECTNAMEASIDENTIFIER__.ORIENTATION_TRANSVERSE
-### ___PROJECTNAMEASIDENTIFIER__.ORIENTATION_UNDEFINED
+### ImageFactory.ORIENTATION_FLIP_HORIZONTAL
+### ImageFactory.ORIENTATION_FLIP_VERTICAL
+### ImageFactory.ORIENTATION_NORMAL
+### ImageFactory.ORIENTATION_ROTATE_180
+### ImageFactory.ORIENTATION_ROTATE_270
+### ImageFactory.ORIENTATION_ROTATE_90
+### ImageFactory.ORIENTATION_TRANSPOSE
+### ImageFactory.ORIENTATION_TRANSVERSE
+### ImageFactory.ORIENTATION_UNDEFINED
 
-### ___PROJECTNAMEASIDENTIFIER__.TAG_DATETIME
-### ___PROJECTNAMEASIDENTIFIER__.TAG_FLASH
-### ___PROJECTNAMEASIDENTIFIER__.TAG_GPS_ALTITUDE
-### ___PROJECTNAMEASIDENTIFIER__.TAG_GPS_ALTITUDE_REF
-### ___PROJECTNAMEASIDENTIFIER__.TAG_GPS_DATESTAMP
-### ___PROJECTNAMEASIDENTIFIER__.TAG_GPS_LATITUDE
-### ___PROJECTNAMEASIDENTIFIER__.TAG_GPS_LATITUDE_REF
-### ___PROJECTNAMEASIDENTIFIER__.TAG_GPS_LONGITUDE
-### ___PROJECTNAMEASIDENTIFIER__.TAG_GPS_LONGITUDE_REF
-### ___PROJECTNAMEASIDENTIFIER__.TAG_GPS_PROCESSING_METHOD
-### ___PROJECTNAMEASIDENTIFIER__.TAG_GPS_TIMESTAMP
-### ___PROJECTNAMEASIDENTIFIER__.TAG_IMAGE_LENGTH
-### ___PROJECTNAMEASIDENTIFIER__.TAG_IMAGE_WIDTH
-### ___PROJECTNAMEASIDENTIFIER__.TAG_MAKE
-### ___PROJECTNAMEASIDENTIFIER__.TAG_MODEL
-### ___PROJECTNAMEASIDENTIFIER__.TAG_ORIENTATION
-### ___PROJECTNAMEASIDENTIFIER__.TAG_WHITE_BALANCE
+### ImageFactory.TAG_DATETIME
+### ImageFactory.TAG_FLASH
+### ImageFactory.TAG_GPS_ALTITUDE
+### ImageFactory.TAG_GPS_ALTITUDE_REF
+### ImageFactory.TAG_GPS_DATESTAMP
+### ImageFactory.TAG_GPS_LATITUDE
+### ImageFactory.TAG_GPS_LATITUDE_REF
+### ImageFactory.TAG_GPS_LONGITUDE
+### ImageFactory.TAG_GPS_LONGITUDE_REF
+### ImageFactory.TAG_GPS_PROCESSING_METHOD
+### ImageFactory.TAG_GPS_TIMESTAMP
+### ImageFactory.TAG_IMAGE_LENGTH
+### ImageFactory.TAG_IMAGE_WIDTH
+### ImageFactory.TAG_MAKE
+### ImageFactory.TAG_MODEL
+### ImageFactory.TAG_ORIENTATION
+### ImageFactory.TAG_WHITE_BALANCE
 
-### ___PROJECTNAMEASIDENTIFIER__.WHITEBALANCE_AUTO
-### ___PROJECTNAMEASIDENTIFIER__.WHITEBALANCE_MANUAL
+### ImageFactory.WHITEBALANCE_AUTO
+### ImageFactory.WHITEBALANCE_MANUAL
 
 ## Usage
 
@@ -72,7 +72,7 @@ See example folder for an example app.js.
 
 ## Author
 
-[Stefan Moonen] [1] - stefan.moonen@freshheads.com
+[Stefan Moonen] [1]
 
 ## License
 

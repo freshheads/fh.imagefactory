@@ -2,5 +2,4 @@ tmp
 bin
 build
 libs
-*.zip
 .apt_generated

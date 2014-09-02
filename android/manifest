@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0
+version: 1.1
 apiversion: 2
 description: My module
 author: Stefan Moonen
@@ -11,7 +11,7 @@ copyright: Freshheads
 
 
 # these should not be edited
-name: imagefactory
+name: fhimagefactory
 moduleid: fh.imagefactory
 guid: eea6f1c5-368d-4684-978a-22209612e983
 platform: android

@@ -1,4 +1,4 @@
-<project name="imagefactory" default="dist">
+<project name="fhimagefactory" default="dist">
 	<description>
 		Ant build script for Titanium Android module imagefactory
 	</description>

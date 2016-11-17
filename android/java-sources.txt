@@ -1,0 +1,2 @@
+"/Users/InGrowth/Documents/Projects/Ti-Android-fh.imagefactory/android/build/generated/java/fh/imagefactory/ImagefactoryBootstrap.java"
+"/Users/InGrowth/Documents/Projects/Ti-Android-fh.imagefactory/android/src/fh/imagefactory/ImagefactoryModule.java"
